@@ -1,0 +1,9 @@
+.hide {
+	display: none !important;
+}
+.correct {
+	background-color: green;
+}
+.wrong {
+	background-color: red;
+}
